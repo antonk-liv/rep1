@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 28 14:54:26 2018
-
+#NEWLINE
 @author: Anton
 """
 from Bio import SeqIO 
